@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Isreal Oparanti
 - 👀 I’m interested in (Web development and software development of any platform)
 - 🌱 I’m currently learning advance technologies
-- 💞️ I’m looking to collaborate on Trios Flight Management/booking Website
-- 📫 How to reach me Gmail(isrealopa@gmail.com) or what'sApp (09060694813)
+- 💞️ I collaborated in developing Trios Flight Management/booking Website
+- I'm currently working on an advance nodejs project
+- 📫 How to reach me Gmail(isrealopa@gmail.com) or What'sApp (09125856823)
 
 <!---
 isrealOparanti6542/isrealOparanti6542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
