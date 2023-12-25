@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Isreal Oparanti
+- 👋 Hi, i am JSON
 - 👀 I’m interested in (Web development and software development of any platform)
 - 🌱 I’m currently learning advance technologies
 - 💞️ I collaborated in developing Trios Flight Management/booking Website
